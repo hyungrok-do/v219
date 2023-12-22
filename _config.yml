@@ -35,7 +35,7 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 8th Machine Learning for Healthcare Conference
-    Held in Toronto, Canada on 11-12 August 2023
+    Held in New York, USA on 11-12 August 2023
 
   Published as Volume 219 by the Proceedings of Machine Learning Research on 22 December 2023.
 
@@ -83,7 +83,7 @@ email: ''
 conference:
   name: Machine Learning for Healthcare Conference
   url:
-  location: Toronto, Canada
+  location: New York, USA
   dates:
   - 2023-08-11
   - 2023-08-12
